@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family:'Arial Narrow Bold';
     margin: 0;
     padding: 0;
     display: flex;
@@ -10,6 +10,12 @@ body {
     background-size: cover;
     background-position: center;
 }
+p{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+    
 
 .video-container {
     text-align: center;
