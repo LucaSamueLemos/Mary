@@ -1,2 +1,0 @@
-*.psd filter=lfs diff=lfs merge=lfs -text
-lv_0_20250122135752(1).mp4 filter=lfs diff=lfs merge=lfs -text
